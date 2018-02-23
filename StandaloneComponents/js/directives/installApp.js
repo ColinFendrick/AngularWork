@@ -3,6 +3,10 @@ app.directive('installApp', function() {
 		restrict: 'E',
 		scope: {},
 		templateUrl: 'js/directives/installApp.html',
+		// create interactive directives that respond to actions
+		// scope gets directive's scope and $scope from controller is availabile here
+		// element is the HTML element
+		// attrs is the HTML elemment's attributes
 		link: function(scope, element, attrs) {
 			scope.buttonText = 'Install',
 			scope.installed = false,
