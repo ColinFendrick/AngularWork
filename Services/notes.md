@@ -1,0 +1,1 @@
+**Services** are ways of reading live data from a server and using it in the MVC framework of Angular 1
