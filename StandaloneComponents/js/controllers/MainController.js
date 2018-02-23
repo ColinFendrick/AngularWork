@@ -22,13 +22,13 @@ app.controller('MainController', ['$scope', function ($scope) {
 
 	$scope.apps = [
 		{
-			icon: 'icon/move.jpg',
+			icon: 'img/move.jpg',
 			title: 'MOVE',
 			developer: 'MOVE, Inc.',
 			price: 0.99
 		},
 		{
-			icon: 'img/shutterbugg.jpg',
+			icon: 'img/move.jpg',
 			title: 'Shutterbugg',
 			developer: 'Chico Dusty',
 			price: 2.99
