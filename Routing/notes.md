@@ -1,0 +1,3 @@
+- Directives are way to make standalone UI components
+- Services are a way to make standalone communication logic
+- Routes manage apps containing more views
